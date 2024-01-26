@@ -15,3 +15,6 @@ git add fileName
 Then commit the changes to remote repository by the command,
 git commit -m "commit-msg"
 
+All the resources can be pulled from the repository by,
+git pull
+
