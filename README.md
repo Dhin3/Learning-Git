@@ -18,3 +18,4 @@ git commit -m "commit-msg"
 All the resources can be pulled from the repository by,
 git pull
 
+git status to check the status like what are about save or the stae of the file.
