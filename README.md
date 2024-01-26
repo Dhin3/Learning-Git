@@ -10,7 +10,8 @@ clone the project in vs using the command:
 git clone <link>
 
 add the changes from the working repository to the remote repository by the command,
-git add fileName
+git add fileName // for a specific file
+git add . // for all the files that has been changed
 
 Then commit the changes to remote repository by the command,
 git commit -m "commit-msg"
